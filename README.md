@@ -1,4 +1,5 @@
-This is a basic recipe website to showcase
-my HTML skills I have learned thus far
+This project is a basic recipe 
+website. It allows me to 
+demonstrate by HTML skills.
 
 https://actuallymoises.github.io/odin-recipes/
