@@ -1,24 +1,31 @@
 body { 
     text-align: center;
+    background-color: black;
 }
 
 
-.hamilton {
-background-color: aquamarine;    
-}
-
-.rose {
-    background-color: red;
-}
-
-.filet {
-    background-color: brown;
-}
-
+.spaghetti,
+.filet,
 .pizza {
-background-color: yellow;
+    display: inline-block;
+    background-color: darkgray;
+    padding: 5px;
 }
 
-.spaghetti {
-    background-color: orange;
+.list {
+    background-color: lightgray;
+    padding: 15px;
+    border: 5px;
+    margin: 10px auto;
+    width: 550px;
+    border: 5px solid aquamarine;
+}
+
+.first {
+    font-size: 20px;
+    background-color: lightgray;
+    padding: 5px;
+    border: 5px solid aquamarine;
+    margin: 10px auto;
+    width: 650px;
 }
